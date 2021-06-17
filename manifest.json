@@ -5,10 +5,7 @@
       "chipFamily": "ESP32",
       "improv": true,
       "parts": [
-        { "path": "bootloader.bin", "offset": 4096 },
-        { "path": "partitions.bin", "offset": 32768 },
-        { "path": "ota.bin", "offset": 57344 },
-        { "path": "firmware.bin", "offset": 65536 }
+        { "path": "https://github.com/alterstrategy/esphome_ggreg20_test/raw/main/nodemcu-dev-esp32-16-modules-2021-03-22-17-13-44-float.bin", "offset": 0 },
       ]
     },
     {
