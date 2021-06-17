@@ -1,18 +1,10 @@
 {
-  "name": "esphome_ggreg20_v3",
-  "builds": [
-    {
-      "chipFamily": "ESP32",
-      "improv": true,
-      "parts": [
-        { "path": "https://github.com/alterstrategy/esphome_ggreg20_test/raw/main/nodemcu-dev-esp32-16-modules-2021-03-22-17-13-44-float.bin", "offset": 0 },
-      ]
-    },
-    {
-      "chipFamily": "ESP8266",
-      "parts": [
-        { "path": "https://github.com/alterstrategy/esphome_ggreg20_test/raw/main/ggreg20_test_esp8266.bin", "offset": 0 },
-      ]
-    }
-  ]
+  "name": "GGreg20_V3",
+  "builds": [{
+    "chipFamily": "ESP8266",
+    "parts": [{
+      "path": "https://github.com/alterstrategy/esphome_ggreg20_test/raw/main/ggreg20_test_esp8266.bin",
+      "offset": 0
+    }]
+  }]
 }
