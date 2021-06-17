@@ -3,7 +3,7 @@
   "builds": [
     {
       "chipFamily": "ESP8266",
-      "parts": [{ "path": "https://raw.githubusercontent.com/alterstrategy/esphome_ggreg20_test/main/ggreg20_test_esp8266.bin", "offset": 0 }]
+      "parts": [{ "path": "https://github.com/alterstrategy/esphome_ggreg20_test/blob/80a1e818c81716061f268ccffda02d311ece0f31/ggreg20_test_esp8266.bin", "offset": 0 }]
     }
   ]
 }
