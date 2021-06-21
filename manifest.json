@@ -2,6 +2,7 @@
   "name": "GGreg20_V3",
   "builds": [{
     "chipFamily": "ESP8266",
+    "improv": true,
     "parts": [{
       "path": "https://ghcdn.rawgit.org/alterstrategy/esphome_ggreg20_test/main/ggreg20_test_esp8266.bin",
       "offset": 0
