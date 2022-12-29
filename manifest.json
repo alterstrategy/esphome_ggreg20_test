@@ -4,7 +4,7 @@
     "chipFamily": "ESP8266",
     "improv": true,
     "parts": [{
-      "path": "https://ghcdn.rawgit.org/alterstrategy/esphome_ggreg20_test/main/ggreg20_test_esp8266.bin",
+      "path": "https://raw.githack.com/alterstrategy/esphome_ggreg20_test/31f9e3490a862e5bdde5d458889cee04aec9f406/fw-read-4.bin",
       "offset": 0
     }]
   }]
