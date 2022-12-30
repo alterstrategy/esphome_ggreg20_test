@@ -2,7 +2,7 @@
   "name": "GGreg20_V3 test firmware",
   "funding_url": "https://iot-devices.com.ua/en/",
   "new_install_prompt_erase": true,
-  "new_install_improv_wait_time": 10,
+  "new_install_improv_wait_time": 100,
   "builds": [{
     "chipFamily": "ESP8266",
     "improv": true,
