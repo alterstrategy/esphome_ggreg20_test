@@ -1,12 +1,11 @@
 {
-  "name": "GGreg20_V3",
-  "version": "2023.01.0",
+  "name": "GGreg20_V3 test firmware",
   "funding_url": "https://iot-devices.com.ua/en/",
   "new_install_prompt_erase": true,
-  "new_install_improv_wait_time": 0,
+  "new_install_improv_wait_time": 10,
   "builds": [{
     "chipFamily": "ESP8266",
-    "improv": false,
+    "improv": true,
     "parts": [{
       "path": "https://raw.githack.com/alterstrategy/esphome_ggreg20_test/31f9e3490a862e5bdde5d458889cee04aec9f406/fw-read-4.bin",
       "offset": 0
