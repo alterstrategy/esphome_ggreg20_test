@@ -7,7 +7,7 @@
     "chipFamily": "ESP8266",
     "improv": true,
     "parts": [{
-      "path": "https://raw.githack.com/alterstrategy/esphome_ggreg20_test/main/esphome-testFW.bin",
+      "path": "https://raw.githack.com/alterstrategy/esphome_ggreg20_test/main/nodemcu-esp8266-test-fw.bin",
       "offset": 0
     }]
   }]
