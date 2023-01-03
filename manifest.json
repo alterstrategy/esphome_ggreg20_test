@@ -7,7 +7,7 @@
     "chipFamily": "ESP8266",
     "improv": true,
     "parts": [{
-      "path": "fw-read-4.bin",
+      "path": "fw-read-1mb_of1mb_fw.bin",
       "offset": 0
     }]
   }]
