@@ -1,13 +1,13 @@
 {
-  "name": "GGreg20_V3 test firmware",
+  "name": "BWD12_V1 test firmware version 1.0.0",
   "funding_url": "https://iot-devices.com.ua/en/",
   "new_install_prompt_erase": true,
-  "new_install_improv_wait_time": 100,
+  "new_install_improv_wait_time": 10,
   "builds": [{
     "chipFamily": "ESP8266",
     "improv": true,
     "parts": [{
-      "path": "fw-read-2mb_of1mb_fw.bin",
+      "path": "fw-read-2of1mb_bwd12_v1_0_0.bin",
       "offset": 0
     }]
   }]
